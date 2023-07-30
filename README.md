@@ -18,4 +18,3 @@
 | [So_Long](https://github.com/oolkay/so_long)|Simple 2D Game|[![oolkay's 42 so_long Score](https://badge42.vercel.app/api/v2/clkpfee0d003008mn4cni6liq/project/3037254)](https://github.com/oolkay/so_long)|
 
 [![oolkay's 42 stats](https://badge42.vercel.app/api/v2/clkpfee0d003008mn4cni6liq/stats?cursusId=21&coalitionId=362)](https://github.com/oolkay/oolkay)
-<a href="https://linkedin.com/in/burak-y%c4%b1ld%c4%b1r%c4%b1m-" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burak-y%c4%b1ld%c4%b1r%c4%b1m-" height="300" width="100" /></a>

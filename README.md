@@ -1,10 +1,10 @@
 
 
-
+<div align="center">
+    
 # GEBZE TECHNICAL UNIVERSITY ASSIGNMENTS
 |[GTU](https://github.com/oolkay/GTU-CSE/tree/main)|
 |:--:|
-
 
 # 42 ECOLE PROJECTS AND SCORES
 |Project|Brief|Score| 

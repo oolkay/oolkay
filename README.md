@@ -18,5 +18,5 @@
 | [So_Long](https://github.com/oolkay/so_long)|Simple 2D Game|[![oolkay's 42 so_long Score](https://badge42.vercel.app/api/v2/clkpfee0d003008mn4cni6liq/project/3037254)](https://github.com/oolkay/so_long)|
 
 [![oolkay's 42 stats](https://badge42.vercel.app/api/v2/clkpfee0d003008mn4cni6liq/stats?cursusId=21&coalitionId=362)](https://github.com/oolkay/oolkay)
- <a href="https://www.linkedin.com/in/%C3%B6mer-faruk-olkay-aa74401b4/"  > <img src="https://media4.giphy.com/media/J3HVaJnAuwYkl5DMEX/giphy.gif?cid=ecf05e47g5zelv2lr68p92c12hetwd1wer5ykwljglqc35f8&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="253" height="200"></img>
+ <a href="https://www.linkedin.com/in/%C3%B6mer-faruk-olkay-aa74401b4/"  target="blank" > <img src="https://media4.giphy.com/media/J3HVaJnAuwYkl5DMEX/giphy.gif?cid=ecf05e47g5zelv2lr68p92c12hetwd1wer5ykwljglqc35f8&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="253" height="200"></img>
 </div>

@@ -3,7 +3,7 @@
 <div align="center">
     
 # GEBZE TECHNICAL UNIVERSITY ASSIGNMENTS
-[![logo](https://github.com/oolkay/oolkay/assets/89595806/55750bfb-bd13-4f2e-b54b-22e1ba8a3ac6)](https://github.com/oolkay/GTU-CSE/tree/main)
+[![logo](https://upload.wikimedia.org/wikipedia/tr/2/23/Gebze_Teknik_%C3%9Cniversitesi.PNG)](https://github.com/oolkay/GTU-CSE/tree/main)
 
 
 # 42 ECOLE PROJECTS AND SCORES

@@ -3,6 +3,10 @@
 <div align="center">
     
 # GEBZE TECHNICAL UNIVERSITY ASSIGNMENTS
+|[GTU REPO](https://github.com/oolkay/GTU-CSE/tree/main)|
+|-|
+
+
 [![logo](https://upload.wikimedia.org/wikipedia/tr/2/23/Gebze_Teknik_%C3%9Cniversitesi.PNG)](https://github.com/oolkay/GTU-CSE/tree/main)
 
 

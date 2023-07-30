@@ -2,8 +2,8 @@
 
 <div align="center">
     
-# GEBZE TECHNICAL UNIVERSITY ASSIGNMENTS
-|[GTU REPO](https://github.com/oolkay/GTU-CSE/tree/main)|
+# GTU CSE ASSIGNMENTS
+|[GTU CSE REPO](https://github.com/oolkay/GTU-CSE/tree/main)|
 |-|
 
 

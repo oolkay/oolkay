@@ -2,9 +2,10 @@
 
 <div align="center">
     
-# GTU CSE ASSIGNMENTS
-|[GTU CSE REPO](https://github.com/oolkay/GTU-CSE/tree/main)|
-|-|
+# GTU CSE
+|[IEEE GTU MOBILE APP(BACKEND)](https://play.google.com/store/apps/details?id=com.ieee.mobile_app)|
+|:-|
+|[ASSIGNMENTS REPO](https://github.com/oolkay/GTU-CSE/tree/main)|
 
 
 [![logo](https://upload.wikimedia.org/wikipedia/tr/2/23/Gebze_Teknik_%C3%9Cniversitesi.PNG)](https://github.com/oolkay/GTU-CSE/tree/main)

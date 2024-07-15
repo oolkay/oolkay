@@ -22,5 +22,3 @@
 | [Push_Swap](https://github.com/oolkay/push_swap)|Sorting a stack using limited set of instructions.|
 | [So_Long](https://github.com/oolkay/so_long)|Simple 2D Game|
 | [Philosophers](https://github.com/oolkay/Dining-Philosophers-Problem)|Dining Philosophers Problem by Dijkstra|
-
-[![oolkay's 42 stats](https://badge42.vercel.app/api/v2/clkpfee0d003008mn4cni6liq/stats?cursusId=21&coalitionId=362)](https://github.com/oolkay/oolkay)
